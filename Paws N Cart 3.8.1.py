@@ -18,7 +18,7 @@
 #   v3.5 Add return function from purchasing
 #   v3.6 Remove display of items with 0 quantity
 #   v3.7 Add Yes/No check to repeated order question
-#   v3.8.1 Revised the code to use Definition and OOP  
+#   v3.8.1 Revised the code to use Definition and OOP
 
 class ShoppingCart:
     def __init__(self):
