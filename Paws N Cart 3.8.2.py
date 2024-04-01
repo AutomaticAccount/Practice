@@ -5,7 +5,7 @@
 
 # Log
 # Date: 01/04/2024
-# Version: v3.8.1
+# Version: v3.8.2
 # Update: 
 #   v1.0 Drafted on List
 #   v2.0 Introduction of Dictionary
